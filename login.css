@@ -1,0 +1,45 @@
+*{
+    text-decoration:none;
+}
+#full{
+    border: 2px solid black;
+    margin-left: 33%;
+    margin-top: 10%;
+    padding-top: 4%;
+    width: 30%;
+    padding-bottom: 4%;
+  
+}
+#num{
+    font-size:medium;
+    margin-top: 2%;
+    padding: 3%;
+    font-style:italic;
+    font-weight: bold;
+    
+}
+#pwd{
+    font-size: medium;
+    padding: 3%;
+    font-style:italic;
+    font-weight: bold;
+    text-decoration:none;
+}
+#button{
+    padding: 3%;
+    margin-left: 39%;
+}
+#badge{
+    margin-left: 30%;
+    color: black;
+}
+#fpwd{
+    margin-left: 33%;
+    margin-top: 2%;
+   
+}
+#acc{
+    margin-top: 2%;
+    margin-left: 29%;
+    text-decoration: none;
+}
